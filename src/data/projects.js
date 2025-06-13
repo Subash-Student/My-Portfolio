@@ -14,11 +14,11 @@ const ProjectsData = [
   },
   {
     id: "2",
-    name: "Ecommerce Website",
+    name: "Voice-Enabled E-Commerce Platform",
     image: "./ecom.png",
     icons: [BiLogoReact, BiLogoTailwindCss, TbApi, TbDatabase, BiLogoRedux],
-    description: "This website provides users with all the basic kinds of shopping items.",
-    github: "https://github.com/Subash-Student/E-Commerce-Website",
+    description: "To create an accessible e-commerce platform that empowers visually impaired users to shop independently using voice commands and haptic feedback.",
+    github: "https://github.com/Subash-Student/AI_Fashion",
     demo: "https://vijay-ecommerce.vercel.app",
   },
   {
