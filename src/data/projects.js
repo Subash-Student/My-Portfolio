@@ -27,7 +27,7 @@ const ProjectsData = [
     image: "./chat.png",
     icons: [BiLogoReact, BiLogoTailwindCss, BiLogoFirebase, BiLogoRedux],
     description: "This chat application provides an interface to the users to interact with their friends.",
-    github: "https://github.com/Subash-Student/Chat-Application",
+    github: "https://github.com/Subash-Student/Chat_App",
     demo: "https://vchat4whisperchat.vercel.app",
   },
   {
