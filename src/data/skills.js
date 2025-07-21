@@ -47,14 +47,14 @@ const SkillsData = [
   //   name: "Firebase",
   //   image: require("../assets/Images/firebase.png"),
   // },
-  // {
-  //   name: "Prisma",
-  //   image: require("../assets/Images/prisma.png"),
-  // },
-  // {
-  //   name: "MySQL",
-  //   image: require("../assets/Images/mysql.png"),
-  // },
+  {
+    name: "AWS",
+    image: require("../assets/Images/aws.png"),
+  },
+  {
+    name: "Docker",
+    image: require("../assets/Images/docker.png"),
+  },
   {
     name: "Postman",
     image: require("../assets/Images/postman.png"),
