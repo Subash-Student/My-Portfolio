@@ -19,7 +19,7 @@ const ProjectsData = [
     icons: [BiLogoReact, BiLogoTailwindCss, TbApi, TbDatabase, BiLogoRedux],
     description: "To create an accessible e-commerce platform that empowers visually impaired users to shop independently using voice commands and haptic feedback.",
     github: "https://github.com/Subash-Student/AI_Fashion",
-    demo: "/",
+    demo: "https://feel-ways.vercel.app",
   },
   {
     id: "3",
